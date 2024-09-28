@@ -1,7 +1,7 @@
 # CYBERSECURITY-Darkweb_Webserver
 Testing **TOR service**: .onion domain, darkweb server hosting and cybersecurity tests.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/adf71d39-b654-45ea-af4d-f65cdb61c621" />
+  <img src="https://github.com/user-attachments/assets/79d24429-1636-4145-a7ac-cb5b982c09c5" />
 </p>
 
 ## Access the .onion website:
