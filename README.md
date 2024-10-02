@@ -9,7 +9,7 @@ I hosted the server on a **RasberriPi 4b**, it runs an apache server and I gener
 
 To **access the website** go to: http://zoxqatmyvhgl6o3s2wsgnkjgkl7ervn5mdog7jjm23znxcmzmihyq6qd.onion/
 
-(accessible only when turned on for security reasons)
+(accessible only when the raspberryPI is turned on, for security reasons)
 
 ## To-do List:
 - Manage github to simplify coding.
